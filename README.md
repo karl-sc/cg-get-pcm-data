@@ -17,4 +17,4 @@ optional arguments:
   --days days, -d days  The number of days to average (default=1)
   --threshold threshold, -s threshold
                         The average threshold in decimal (default=.80 for 80 percent)
-                        111
+```
